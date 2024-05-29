@@ -11,8 +11,12 @@ print('4=', s.count('4'))
 print('5=', s.count('5'))
 print('0=', s.count('0'))
 n=2*2 + 3*3 + 4 + 5*6080
+<<<<<<< HEAD
 print('n',n)
 print('n',n)
+=======
+print('n',n) 
+>>>>>>> main
 # for i in range (1, len(s)+1):
 #     cum += i
 # print(cum)
